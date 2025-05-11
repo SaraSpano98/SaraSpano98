@@ -4,11 +4,9 @@
 
 Hi, I'm Sara. I'm a student and this is my Github profile. 
 
-[<img align="left" alt="tassiaaccioly | LinkedIn" width="22px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="itsmetherogue | Twitter" width="22px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="tassia.accioly | Gmail" width="22px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="tassiaaccioly | Medium" width="22px" src="./medium.svg" />][medium]
-[<img align="left" alt="tassiaaccioly | Dev.to" width="22px" src="./dev-dot-to.svg" />][devto]
+[<img align="left" alt="saraspano98 | LinkedIn" width="30px" src="https://cdn.vectorstock.com/i/2000v/99/09/linkedin-social-media-icon-template-vector-22339909.avif" />][linkedin]
+[<img align="left" alt="saraspano98 | Gmail" width="22px" src="https://cdn.vectorstock.com/i/2000v/56/12/gmail-logo-symbol-vector-46335612.avif" />][gmail]
+[<img align="left" alt="saraspano98 | Dev.to" width="22px" src="https://cdn.vectorstock.com/i/500p/14/99/web-developer-design-vector-5881499.avif" />][devto]
 
 ⚡ My study path within the world of coding began in 2025. My intent was to reinvent myself both professionally and personally. 
 
@@ -18,17 +16,4 @@ Creating things from scratch is something I've always loved to do and putting pe
 
 🌱 I love movies, reading articles or sites to learn new things (code, art and much more), games, books, drawing, painting, organizing.
 
-<!--
-**SaraSpano98/SaraSpano98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
