@@ -5,9 +5,11 @@
 
 Hi, I'm Sara. I'm a student and this is my Github profile. 
 
-<img align="left" alt="saraspano98 | LinkedIn" width="50px" src="https://cdn.vectorstock.com/i/2000v/99/09/linkedin-social-media-icon-template-vector-22339909.avif" />
-[<img align="left" alt="saraspano98 | Gmail" width="50px" src="https://cdn.vectorstock.com/i/2000v/56/12/gmail-logo-symbol-vector-46335612.avif" />]
-[<img align="left" alt="saraspano98 | Dev.to" width="50px" src="https://cdn.vectorstock.com/i/500p/14/99/web-developer-design-vector-5881499.avif" />]
+<p>
+  <img align="left" alt="saraspano98 | LinkedIn" width="100px" src="https://cdn.vectorstock.com/i/2000v/99/09/linkedin-social-media-icon-template-vector-22339909.avif" />
+  <img align="left" alt="saraspano98 | Gmail" width="100px" src="https://cdn.vectorstock.com/i/2000v/56/12/gmail-logo-symbol-vector-46335612.avif" />
+  <img align="left" alt="saraspano98 | Dev.to" width="100px" src="https://cdn.vectorstock.com/i/500p/14/99/web-developer-design-vector-5881499.avif" />
+</p>
 
 <br>
 <br>
@@ -26,7 +28,7 @@ Creating things from scratch is something I've always loved to do and putting pe
 | | |
 |---|---|
 | **Languages** | ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| **Markup** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ! |
+| **Markup** | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
 | **Style Sheet Language** | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 | **CSS Processor** | ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white) |
 | **Framework** | ![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
