@@ -1,4 +1,5 @@
-## Hi, I'm Sara Spano👋
+## Hi, I'm Sara Spano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
 
 ## I'm a programmer studend (for the moment)
 
@@ -7,6 +8,9 @@ Hi, I'm Sara. I'm a student and this is my Github profile.
 [<img align="left" alt="saraspano98 | LinkedIn" width="30px" src="https://cdn.vectorstock.com/i/2000v/99/09/linkedin-social-media-icon-template-vector-22339909.avif" />][linkedin]
 [<img align="left" alt="saraspano98 | Gmail" width="22px" src="https://cdn.vectorstock.com/i/2000v/56/12/gmail-logo-symbol-vector-46335612.avif" />][gmail]
 [<img align="left" alt="saraspano98 | Dev.to" width="22px" src="https://cdn.vectorstock.com/i/500p/14/99/web-developer-design-vector-5881499.avif" />][devto]
+
+<br>
+<br>
 
 ⚡ My study path within the world of coding began in 2025. My intent was to reinvent myself both professionally and personally. 
 
@@ -17,3 +21,20 @@ Creating things from scratch is something I've always loved to do and putting pe
 🌱 I love movies, reading articles or sites to learn new things (code, art and much more), games, books, drawing, painting, organizing.
 
 
+## GitHub Stats
+
+!['s github stats](https://github-readme-stats.vercel.app/api?username=tassiaaccioly&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github.com/SaraSpano98/MiaTech/search?l=html)
+
+
+### My Stack
+
+| | |
+|---|---|
+| **Languages** | ![Javascript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=white) ![Typescript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| **Aplication and Data** | ![ReactJS](https://img.shields.io/badge/-ReactJS-51CBF2?style=flat&logo=react&logoColor=white) |
+
+| **UX/UI** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) |
+
+| **DevOps** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white) |
+| **Business** | ![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)  | 
