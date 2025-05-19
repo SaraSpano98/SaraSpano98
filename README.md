@@ -14,6 +14,7 @@ Hi, I'm Sara. I'm a student and this is my Github profile.
 <br>
 <br>
 
+
 ⚡ My study path within the world of coding began in 2025. My intent was to reinvent myself both professionally and personally. 
 
 The world of Web Developer had already fascinated me for a few years, but I didn't know how to get into it, until I came across a fantastic opportunity. Having a passion for art and drawing, I wanted to look more into the digital world.. and here I am! This is my beginning. 
