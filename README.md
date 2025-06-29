@@ -5,11 +5,13 @@
 
 Hi, I'm Sara. I'm a student and this is my Github profile. 
 
+<div>
 <p>
   <img align="left" alt="saraspano98 | LinkedIn" width="100px" src="https://cdn.vectorstock.com/i/2000v/99/09/linkedin-social-media-icon-template-vector-22339909.avif" />
   <img align="left" alt="saraspano98 | Gmail" width="100px" src="https://cdn.vectorstock.com/i/2000v/56/12/gmail-logo-symbol-vector-46335612.avif" />
   <img align="left" alt="saraspano98 | Dev.to" width="100px" src="https://cdn.vectorstock.com/i/500p/14/99/web-developer-design-vector-5881499.avif" />
 </p>
+</div>
 
 <br>
 <br>
