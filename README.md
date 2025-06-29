@@ -25,7 +25,7 @@ Hi, I'm Sara. I'm a student Web Developer and this is my Github profile.
     </td>
     <td align="center">
       <a href="https://dev.to/saraspano98" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Dev.to_logo.svg" width="80px" alt="Dev.to"/>
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Fweb-developer&psig=AOvVaw0IBbYncy2_Y2Xuuzllz0Ex&ust=1751276032341000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCa7uSplo4DFQAAAAAdAAAAABAZ" width="80px" alt="Dev.to"/>
         <br/>
         Dev.to
       </a>
