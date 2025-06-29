@@ -11,27 +11,25 @@ Hi, I'm Sara. I'm a student Web Developer and this is my Github profile.
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/saraspano98" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="80px" alt="LinkedIn"/>
-        <br/>
-        LinkedIn
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="80px" alt="LinkedIn"/><br/>
+        <strong>LinkedIn</strong>
       </a>
     </td>
     <td align="center">
       <a href="mailto:saraspano98@gmail.com" target="_blank">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80px" alt="Gmail"/>
-        <br/>
-        Gmail
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80px" alt="Gmail"/><br/>
+        <strong>Gmail</strong>
       </a>
     </td>
     <td align="center">
       <a href="https://dev.to/saraspano98" target="_blank">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vecteezy.com%2Ffree-png%2Fweb-developer&psig=AOvVaw0IBbYncy2_Y2Xuuzllz0Ex&ust=1751276032341000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCa7uSplo4DFQAAAAAdAAAAABAZ" width="80px" alt="Dev.to"/>
-        <br/>
-        Dev.to
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Devto.svg" width="80px" alt="Dev.to"/><br/>
+        <strong>Dev.to</strong>
       </a>
     </td>
   </tr>
 </table>
+
 
 <br>
 <br>
