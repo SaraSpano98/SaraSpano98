@@ -16,16 +16,17 @@ Hi, I'm Sara. I'm a student Web Developer and this is my Github profile.
       </a>
     </td>
     <td align="center">
-      <a href="mailto:saraspano98@gmail.com" target="_blank">
+      <a href="mailto:saraspano579@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80px" alt="Gmail"/><br/>
         <strong>Gmail</strong>
+        <code>saraspano579@gmail.com</code>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/SaraSpano98" target="_blank">
-        <img src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" width="80px" alt="Web Developer"/><br/>
-        <strong>Dev.to</strong>
-      </a>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80px" alt="GitHub" /><br/>
+  <strong>GitHub Profile</strong>
+</a>
     </td>
   </tr>
 </table>
@@ -33,6 +34,8 @@ Hi, I'm Sara. I'm a student Web Developer and this is my Github profile.
 
 <br>
 <br>
+
+### About Me
 
 ⚡ My study path within the world of coding began in 2025. My intent was to reinvent myself both professionally and personally. 
 
@@ -66,7 +69,7 @@ Creating things from scratch is something I've always loved to do and putting pe
 |---|---|
 | **UX/UI** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=flat&logo=adobe-illustrator&logoColor=white) |
 | **Back-end / Runtime** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
-| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) |
+| **Database** | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  |
 | **Framework** | ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) |
 | **Test** | ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white) |
 
