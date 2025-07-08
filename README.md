@@ -19,7 +19,6 @@ Hi, I'm Sara. I'm a student Web Developer and this is my Github profile.
       <a href="mailto:saraspano579@gmail.com" target="_blank">
         <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="80px" alt="Gmail"/><br/>
         <strong>Gmail</strong>
-        <code>saraspano579@gmail.com</code>
       </a>
     </td>
     <td align="center">
