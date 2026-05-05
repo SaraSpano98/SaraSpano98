@@ -1,9 +1,9 @@
 ## Hi, I'm Sara Spano <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-## I'm a programmer studend (for the moment)
+## I'm a Junior Front-end Developer  (for the moment)
 
-Hi, I'm Sara. I'm a student Web Developer and this is my Github profile. 
+This is my Github profile. 
 
 ## Contacts
 
